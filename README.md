@@ -1,2 +1,2 @@
 # videos
-Vídeos usados para na aplicação do algoritmo de detecção.
+Vídeos usados para aplicação do algoritmo de detecção.
